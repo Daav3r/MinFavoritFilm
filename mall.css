@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+  text-align: center;
+  line-height: 1.7em;
+}
+ img.pointbreak{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+p{
+  color: red;
+  line-height: 1.2em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+body{
+  background-color: green;
+  background-image: url(hand.jpg);
+}
